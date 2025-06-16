@@ -3,8 +3,8 @@
 **Poslovno** is a modern business analytics platform that provides deep insights into companies, industries, and market trends. With support for both Bosnia and Herzegovina and Germany, Poslovno empowers users to make informed decisions backed by real-time data.
 
 🌍 Visit our platforms:  
-- 🇧🇦 [Poslovno.ba](https://www.poslovno.ba) – Business insights and analytics for Bosnia and Herzegovina  
-- 🇩🇪 [Poslovno.de](https://www.poslovno.de) – Market intelligence and company data for Germany
+- 🇧🇦 [Poslovno.ba](https://poslovno.ba) – Business insights and analytics for Bosnia and Herzegovina  
+- 🇩🇪 [Poslovno.de](https://poslovno.de) – Market intelligence and company data for Germany
 
 ## Features
 
